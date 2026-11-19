@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emeris\\OneDrive - ADvTECH Ltd\\Desktop\\prog\\LU1LO1\u00262_Q1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0379FC6-3468-BB89-A96E-082FFAF6637A}|LU1LO1\u00262_Q1\\LU1LO1\u00262_Q1.csproj|c:\\users\\emeris\\onedrive - advtech ltd\\desktop\\prog\\lu1lo1\u00262_q1\\lu1lo1\u00262_q1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0379FC6-3468-BB89-A96E-082FFAF6637A}|LU1LO1\u00262_Q1\\LU1LO1\u00262_Q1.csproj|solutionrelative:lu1lo1\u00262_q1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0379FC6-3468-BB89-A96E-082FFAF6637A}|LU1LO1\u00262_Q1\\LU1LO1\u00262_Q1.csproj|c:\\users\\emeris\\onedrive - advtech ltd\\desktop\\prog\\lu1lo1\u00262_q1\\lu1lo1\u00262_q1\\tempfiletracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0379FC6-3468-BB89-A96E-082FFAF6637A}|LU1LO1\u00262_Q1\\LU1LO1\u00262_Q1.csproj|solutionrelative:lu1lo1\u00262_q1\\tempfiletracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TempFileTracker.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\OneDrive - ADvTECH Ltd\\Desktop\\prog\\LU1LO1\u00262_Q1\\LU1LO1\u00262_Q1\\TempFileTracker.cs",
+              "RelativeDocumentMoniker": "LU1LO1\u00262_Q1\\TempFileTracker.cs",
+              "ToolTip": "C:\\Users\\emeris\\OneDrive - ADvTECH Ltd\\Desktop\\prog\\LU1LO1\u00262_Q1\\LU1LO1\u00262_Q1\\TempFileTracker.cs",
+              "RelativeToolTip": "LU1LO1\u00262_Q1\\TempFileTracker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T07:30:16.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\OneDrive - ADvTECH Ltd\\Desktop\\prog\\LU1LO1\u00262_Q1\\LU1LO1\u00262_Q1\\Program.cs",
+              "RelativeDocumentMoniker": "LU1LO1\u00262_Q1\\Program.cs",
+              "ToolTip": "C:\\Users\\emeris\\OneDrive - ADvTECH Ltd\\Desktop\\prog\\LU1LO1\u00262_Q1\\LU1LO1\u00262_Q1\\Program.cs*",
+              "RelativeToolTip": "LU1LO1\u00262_Q1\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T07:28:42.14Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
