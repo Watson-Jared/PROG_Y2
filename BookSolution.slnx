@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BookAPI/BookAPI.csproj" />
+  <Project Path="BookLibrary/BookLibrary.csproj" />
+  <Project Path="BookMVC/BookMVC.csproj" Id="6de56259-451f-4dec-aff5-47a903ee099f" />
+</Solution>
